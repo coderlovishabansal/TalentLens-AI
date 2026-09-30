@@ -236,10 +236,9 @@ sample_candidates.json
 
 ## 👨‍💻 Author
 
-**Udhey Goyal**
+**Lovisha Bansal**
 
-- GitHub: https://github.com/Udhey-Goyal
-
+- GitHub: https://github.com/coderlovishabansal
 ---
 
 ## 📄 License
