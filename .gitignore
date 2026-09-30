@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Embedding cache
+cache/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Large / generated files
+redrob-ranker.zip
+submission.csv
+candidates.jsonl
