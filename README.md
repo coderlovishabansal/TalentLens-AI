@@ -81,7 +81,7 @@ TalentLens AI is an intelligent candidate ranking platform that ranks **100,000+
 ## 📂 Repository Structure
 
 ```text
-redrob-ai-ranker/
+TalentLens-AI/
 │
 ├── assets/                 # README screenshots
 ├── frontend/               # React frontend
@@ -108,8 +108,8 @@ redrob-ai-ranker/
 Clone the repository:
 
 ```bash
-git clone https://github.com/Udhey-Goyal/redrob-ai-ranker.git
-cd redrob-ai-ranker
+git clone https://github.com/coderlovishabansal/TalentLens-AI.git
+cd TalentLens-AI
 ```
 
 Create a virtual environment:
